@@ -1,0 +1,28 @@
+name: moli
+favicon: null
+layout_spectrum: 0.98806
+typography_spectrum: 0.33441
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#6d4d21'
+    - '#251b0d'
+    - '#eca441'
+    - '#ffffff'
+    - '#868073'
+  brandStrength: 0.6253978183958679
+  lightness: 0.911208804929629
+  saturation: 0.9971241450402886
+  rhythmicContrast: 0.2537544590886682
+purpose: []
