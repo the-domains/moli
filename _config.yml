@@ -2,6 +2,7 @@ name: moli
 favicon: null
 layout_spectrum: 0.98806
 typography_spectrum: 0.33441
+title: MOLI
 cta:
   domain: null
   bucket: null
