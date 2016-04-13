@@ -1,7 +1,7 @@
 name: moli
 favicon: null
-layout_spectrum: 0.24513
-typography_spectrum: 0.33441
+layout_spectrum: 1
+typography_spectrum: 0.43747
 title: MOLI
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6d4d21'
-    - '#251b0d'
-    - '#eca441'
-    - '#ffffff'
-    - '#868073'
+    - '#1f3131'
+    - '#72eff2'
+    - '#f674ec'
+    - '#a444d0'
+    - '#399fa2'
   brandStrength: 0.125
   lightness: 1
   saturation: 0.125
